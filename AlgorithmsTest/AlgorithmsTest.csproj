@@ -21,4 +21,12 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="DataStructures\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NET-Algorithms\NET-Algorithms.csproj" />
+  </ItemGroup>
+
 </Project>
